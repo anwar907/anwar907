@@ -1,5 +1,7 @@
-# My Github Performance
-![github stats](https://github-readme-stats.vercel.app/api?username=anwar907&show_icons=true)
+
+<h1 align="center">
+  Welcome to Anwar profile!
+</h1>
 
 
 ## 🛠️ My favorite tools
@@ -41,3 +43,34 @@
 </p>
 
 <br>
+
+
+## 🔥 Contribution Stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="anwar907 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anwar907&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+<p align="center">
+  <a href="#anwar907-title">
+    <img src="https://github-readme-stats.vercel.app/api?username=anwar907&show_icons=true&theme=dracula&hide_border=true" alt="macropower"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="#anwar907-title">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwar907&layout=compact&theme=dracula&hide_border=true" alt="macropower"/>
+  </a>
+</p>
+
+# Find me on
+
+[website]:https://anwar.kuasaiteknologi.com
+[instagram]:https://www.instagram.com/anwar.apk
+[linkedin]:https://www.linkedin.com/in/anwar-s
+[email]:mailto:hello.anwarend907.gmail.com
+[stackoverflow]: https://stackoverflow.com/users/11240948/anwar
