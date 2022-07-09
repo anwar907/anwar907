@@ -1,7 +1,6 @@
+#  Welcome to Anwar profile!
 
-<h1 align="center">
-  Welcome to Anwar profile!
-</h1>
+[![Anwar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11240948)](https://stackoverflow.com/users/11240948/anwar)
 
 
 ## 🛠️ My favorite tools
