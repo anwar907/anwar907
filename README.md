@@ -1,4 +1,6 @@
-#  Welcome to Anwar profile!
+#  Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&lines=I+am+Mobile+Developer;Always+learning+new+things;Because;Knowledge+is+my+operating+system)](https://git.io/typing-svg)
 
 [![Anwar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11240948)](https://stackoverflow.com/users/11240948/anwar)
 
