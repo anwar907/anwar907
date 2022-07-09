@@ -66,7 +66,9 @@
   </a>
 </p>
 
-# Find me on
+# Blog Post
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 [website]:https://anwar.kuasaiteknologi.com
 [instagram]:https://www.instagram.com/anwar.apk
