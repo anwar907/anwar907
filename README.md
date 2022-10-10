@@ -27,7 +27,7 @@
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=c%2B%2B&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-FC7565?logo=java&logoColor=white"/>
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-FE6C39?logo=swift&logoColor=white"/>
+  <!-- <img alt="Swift" src="https://img.shields.io/badge/Swift-FE6C39?logo=swift&logoColor=white"/> -->
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-8365E8?logo=kotlin&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/Dart-25BEFA?logo=dart&logoColor=white"/>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
