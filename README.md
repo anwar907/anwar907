@@ -48,11 +48,11 @@
 ### 📕 Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [Pengenalan Bahasa Pemrograman DART](https://www.kuasaiteknologi.com/2022/10/pengenalan-bahasa-pemrograman-dart.html)
 - [Mengenal Unit test, Widget test, Integration test pada Flutter](https://www.kuasaiteknologi.com/2022/03/mengenal-unit-test-widget-test.html)
 - [Apa itu TDD &lpar;Test-Driven Development&rpar; ??](https://www.kuasaiteknologi.com/2021/10/apa-itu-tdd-test-driven-development.html)
 - [The History DIY Custom Mechanical Keyboard | Lily58 Split Keyboard](https://www.kuasaiteknologi.com/2020/08/the-history-diy-custom-mechanical.html)
 - [Google Program: Developer Student Clubs &lpar;DSC&rpar; Lead Sudah Dibuka](https://www.kuasaiteknologi.com/2020/05/google-program-developer-student-clubs.html)
-- [Spesifikasi iPhone SE 2020 Lengkap | Kuasaiteknologi](https://www.kuasaiteknologi.com/2020/05/spesifikasi-iphone-se-lengkap.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔥 Contribution Stats
