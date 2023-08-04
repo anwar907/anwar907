@@ -19,6 +19,10 @@
   <img alt="XCode" src="https://img.shields.io/badge/Xcode-0785DF?logo=xcode&logoColor=white"/>
   <img alt="Notion" src="https://img.shields.io/badge/Notion-010101?logo=notion&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFBD46?logo=firebase&logoColor=white"/>
+  <img alt="Lunar VIM" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img alt="VIM" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
 </p>
 
 ### 👨‍💻 Programming languages
@@ -32,6 +36,7 @@
   <img alt="Dart" src="https://img.shields.io/badge/Dart-25BEFA?logo=dart&logoColor=white"/>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
+  <img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 ### 🧰 Frameworks and libraries
