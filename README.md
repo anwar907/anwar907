@@ -50,6 +50,8 @@
 
 <br>
 
+### 📺 YouTube Post
+
 ### 📕 Blog Post
 
 <!-- BLOG-POST-LIST:START -->
