@@ -54,8 +54,12 @@
 
 ### 📺 YouTube Post
 
-<!-- YOUTUBE:START --> 
-
+<!-- YOUTUBE:START -->
+- [ROAD BIKE DARI BSD CITY KE JAKARTA | 29 Km Lebih](https://www.youtube.com/watch?v=q17fhUsRGQs)
+- [Debugging onError Bloc State Management](https://www.youtube.com/watch?v=SaKHgJeLLS0)
+- [Implement BlocObserver untuk Debug Proses State Management Bekerja](https://www.youtube.com/watch?v=5hc_rnEFIaE)
+- [Mesin Cuci Tanpa Listrik || Karya Anak Bangsa](https://www.youtube.com/watch?v=bOg_nfgBlUc)
+- [Poldimate Mesin Pelipat dan Setrika Baju otomatis || Karya Anak Bangsa](https://www.youtube.com/watch?v=Sf0w6SjlznA)
 <!-- YOUTUBE:END -->
 
 ### 📕 Blog Post
