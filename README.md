@@ -2,8 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&lines=I+am+Mobile+Developer;Always+learning+new+things;Because+knowledge+is;My+operating+system)](https://git.io/typing-svg)
 
-[![Anwar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11240948)](https://stackoverflow.com/users/11240948/anwar)
 
+
+| ✅ Stackoverflow Contribution | 🧑‍💻 Roadmap Learning |
+| --- | --- |
+| [![Anwar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11240948)](https://stackoverflow.com/users/11240948/anwar) | [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/657926215145316d25f6943b?variant=dark)](https://roadmap.sh) |
 
 ## 🛠️ My favorite tools
 
@@ -23,6 +26,7 @@
   <img alt="VIM" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
+
 </p>
 
 ### 👨‍💻 Programming languages
@@ -46,6 +50,11 @@
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-095B9A?logo=flutter&logoColor=white" />
   <img alt="iOS" src="https://img.shields.io/badge/Ios-FFFFFF?logo=apple&logoColor=black" />
   <img alt="Github Action" src="https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=github%20actions&logoColor=white" />
+</p>
+
+### Cloud
+<p>
+<img alt="Aws" src="https://img.shields.io/badge/aws-cdk?style=for-the-badge&logo=amazonaws&logoColor=%23FF9900&color=black"/>
 </p>
 
 <br>
@@ -95,8 +104,6 @@
 </p>
 
 
-### 🧑‍💻 Roadmap Learning
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/657926215145316d25f6943b?variant=dark)](https://roadmap.sh)
 
 
 [website]:https://anwar.kuasaiteknologi.com
