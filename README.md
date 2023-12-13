@@ -95,6 +95,9 @@
 </p>
 
 
+### 🧑‍💻 Roadmap Learning
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/657926215145316d25f6943b?variant=dark)](https://roadmap.sh)
+
 
 [website]:https://anwar.kuasaiteknologi.com
 [instagram]:https://www.instagram.com/anwar.apk
