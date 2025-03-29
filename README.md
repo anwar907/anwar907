@@ -74,11 +74,11 @@
 ### 📕 Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Node.js Architecture Works](https://www.kuasaiteknologi.com/2025/03/understanding-nodejs-architecture-works.html)
 - [Implement BlocObserver untuk Debug dan Mengetahui Proses State Management Bekerja](https://www.kuasaiteknologi.com/2022/11/implement-blocobserver-untuk-debug-dan.html)
 - [Pengenalan Bahasa Pemrograman DART](https://www.kuasaiteknologi.com/2022/10/pengenalan-bahasa-pemrograman-dart.html)
 - [Mengenal Unit test, Widget test, Integration test pada Flutter](https://www.kuasaiteknologi.com/2022/03/mengenal-unit-test-widget-test.html)
 - [Apa itu TDD &lpar;Test-Driven Development&rpar; ??](https://www.kuasaiteknologi.com/2021/10/apa-itu-tdd-test-driven-development.html)
-- [The History DIY Custom Mechanical Keyboard | Lily58 Split Keyboard](https://www.kuasaiteknologi.com/2020/08/the-history-diy-custom-mechanical.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔥 Contribution Stats
