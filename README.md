@@ -6,7 +6,7 @@
 
 | ✅ Stackoverflow Contribution | 🧑‍💻 Roadmap Learning |  🧠 Competitive Programming  |
 | --- | --- | --- |
-| [![Anwar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11240948)](https://stackoverflow.com/users/11240948/anwar) | [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/657926215145316d25f6943b?variant=light)](https://roadmap.sh/u/anwar907) |  ![codewar](https://www.codewars.com/users/anwar907/badges/large)  |
+| [![Anwar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11240948)](https://stackoverflow.com/users/11240948/anwar) | [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/657926215145316d25f6943b?variant=light)](https://roadmap.sh/u/anwar907) |  [![codewar](https://www.codewars.com/users/anwar907/badges/large)](https://www.codewars.com/users/anwar907/stats)  |
 
 ## 🛠️ My favorite tools
 
