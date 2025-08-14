@@ -72,6 +72,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔥 Contribution Stats
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="anwar907 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anwar907&theme=monokai-metallian&hide_border=true" width="96%" height="auto"/>
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwar907&theme=moonlight" width="96%" height="auto">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anwar907&theme=moonlight" width="48%" height="auto" style="display: inline;"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anwar907&theme=moonlight" width="48%" height="auto" style="display: inline;"/>
