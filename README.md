@@ -64,11 +64,11 @@
 ### 📕 Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Node.js Architecture Works](https://www.kuasaiteknologi.com/2025/03/understanding-nodejs-architecture-works.html)
-- [Implement BlocObserver untuk Debug dan Mengetahui Proses State Management Bekerja](https://www.kuasaiteknologi.com/2022/11/implement-blocobserver-untuk-debug-dan.html)
-- [Pengenalan Bahasa Pemrograman DART](https://www.kuasaiteknologi.com/2022/10/pengenalan-bahasa-pemrograman-dart.html)
-- [Mengenal Unit test, Widget test, Integration test pada Flutter](https://www.kuasaiteknologi.com/2022/03/mengenal-unit-test-widget-test.html)
-- [Apa itu TDD &lpar;Test-Driven Development&rpar; ??](https://www.kuasaiteknologi.com/2021/10/apa-itu-tdd-test-driven-development.html)
+- [Understanding NodeJS Architecture Works](https://www.kuasaiteknologi.com/posts/article/understanding-node.js-architecture-works/)
+- [Implement BlocObserver untuk Debug dan Mengetahui Proses State Management Bekerja](https://www.kuasaiteknologi.com/posts/article/implement-blocobserver-untuk-debug-dan-mengetahui-proses-state-management-bekerja/)
+- [Pengenalan Bahasa Pemrograman DART](https://www.kuasaiteknologi.com/posts/article/pengenalan-bahasa-pemrograman-dart/)
+- [Mengenal Unit test, Widget test, Integration test pada Flutter](https://www.kuasaiteknologi.com/posts/article/mengenal-unit-test-widget-test-integration-test-pada-flutter/)
+- [Apa itu TDD &lpar;Test-Driven Development&rpar; ??](https://www.kuasaiteknologi.com/posts/article/apa-itu-tdd-test-driven-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔥 Contribution Stats
