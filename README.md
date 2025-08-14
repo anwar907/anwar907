@@ -1,6 +1,6 @@
 #  Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">                                                      
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&lines=I+am+Mobile+Developer;Always+learning+new+things;Because+knowledge+is;My+operating+system)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&lines=I+am+Software+Engineer;Always+learning+new+things;Because+knowledge+is;My+operating+system)](https://git.io/typing-svg)
 
 
 
@@ -61,16 +61,6 @@
 
 ## Content Sharing 
 
-### 📺 YouTube Post
-
-<!-- YOUTUBE:START -->
-- [ROAD BIKE DARI BSD CITY KE JAKARTA | 29 Km Lebih](https://www.youtube.com/watch?v=q17fhUsRGQs)
-- [Debugging onError Bloc State Management](https://www.youtube.com/watch?v=SaKHgJeLLS0)
-- [Implement BlocObserver untuk Debug Proses State Management Bekerja](https://www.youtube.com/watch?v=5hc_rnEFIaE)
-- [Mesin Cuci Tanpa Listrik || Karya Anak Bangsa](https://www.youtube.com/shorts/bOg_nfgBlUc)
-- [Poldimate Mesin Pelipat dan Setrika Baju otomatis || Karya Anak Bangsa](https://www.youtube.com/watch?v=Sf0w6SjlznA)
-<!-- YOUTUBE:END -->
-
 ### 📕 Blog Post
 
 <!-- BLOG-POST-LIST:START -->
@@ -82,26 +72,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔥 Contribution Stats
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwar907&theme=moonlight" width="96%" height="auto">
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="anwar907 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anwar907&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
-<p align="center">
-  <a href="#anwar907-title">
-    <img src="https://github-readme-stats.vercel.app/api?username=anwar907&show_icons=true&theme=dracula&hide_border=true" alt="macropower"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="#anwar907-title">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwar907&layout=compact&theme=dracula&hide_border=true" alt="macropower"/>
-  </a>
-</p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anwar907&theme=moonlight" width="48%" height="auto" style="display: inline;"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anwar907&theme=moonlight" width="48%" height="auto" style="display: inline;"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anwar907&theme=moonlight" width="48%" height="auto" style="display: inline;"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anwar907&theme=moonlight&utcOffset=+7.0" width="48%" height="auto" style="display: inline;"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anwar907&bg_color=1E3A4C&color=00FFFF&line=FF0000&point=FFA07A&area=true&hide_border=false" width="96%" height="auto">
 
 
 
